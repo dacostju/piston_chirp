@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Piston Chirp
   content: Future site qui envoie du gros
-  image: images/hero-image/hero-slider-01.jpg
+  image: "/images/banner.jpg"
   button:
     enable: true
     label: WHAT WE DO
